@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>Metrología para la innovación</title>
+	<link>https://academia.utp.edu.co/metrologia-lmve</link>
+	<description>Micrositio De la regla al fotón</description>
+	<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+	<language>es-CO</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://academia.utp.edu.co/</wp:base_site_url>
+	<wp:base_blog_url>https://academia.utp.edu.co/metrologia-lmve</wp:base_blog_url>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[Metrología para la innovación]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:category><wp:term_id>500</wp:term_id><wp:category_nicename><![CDATA[de-la-regla-al-foton]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[De la regla al fotón]]></wp:cat_name></wp:category>
+	<generator>build_wxr.py</generator>
+
+<item>
+<title><![CDATA[De la regla al fotón]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9000</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<figure style="margin:0 0 18px"><img src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/img/portada.png" alt="Portada: De la metrología básica a la metrología cuántica" style="width:100%;height:auto;border-radius:12px"></figure>
+<!-- /wp:html -->
+<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><strong>Inicio</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Durante miles de años medimos comparando con trozos de metal. Hoy medimos contando oscilaciones de átomos y fotones.</strong> Esta cátedra de cuatro horas recorre ese camino sin tableros llenos de ecuaciones: con simulaciones que se pueden tocar, analogías cotidianas y una pregunta de fondo: ¿qué significa medir bien?</p>
+<!-- /wp:paragraph -->
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Cátedra</th><th>Detalle</th></tr></thead><tbody><tr><td>Título</td><td>De la metrología básica a la metrología cuántica: <em>De la regla al fotón</em></td></tr><tr><td>Duración</td><td>4 horas (dos bloques de 2 h con descanso)</td></tr><tr><td>Fecha y lugar</td><td><em>[por confirmar]</em></td></tr><tr><td>Dirigida a</td><td>Estudiantes, docentes y público curioso; no requiere formación previa en física</td></tr><tr><td>Entregable</td><td>La <strong>Hoja de Ruta de la Precisión</strong>, infográfico que resume el paso de medir con trozos de metal a medir con la frecuencia de los átomos</td></tr><tr><td>Organiza</td><td>Universidad Tecnológica de Pereira · Blog Metrología para la innovación</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Recorre el micrositio</h2>
+<!-- /wp:heading -->
+<!-- wp:html -->
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">1. Antes de la cátedra</strong><span style="color:#555;font-size:.92em">Diez minutos de preparación: reto de precisión, glosario visual y video de apertura.</span></a><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">2. Línea de tiempo de la medida</strong><span style="color:#555;font-size:.92em">Del codo egipcio a los relojes ópticos: ocho hitos con el error que cada patrón dejaría en un viaje Pereira–Bogotá.</span></a><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">3. Laboratorio virtual</strong><span style="color:#555;font-size:.92em">Interferómetro de Michelson, lluvia sobre un paraguas y tres relojes: toca lo que viste en la cátedra.</span></a><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">4. Metrología cerca de ti</strong><span style="color:#555;font-size:.92em">El Instituto Nacional de Metrología, la báscula de la EPS, el surtidor de gasolina y el GPS de tu celular.</span></a><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">5. Después de la cátedra</strong><span style="color:#555;font-size:.92em">La Hoja de Ruta de la Precisión para descargar, un reto de cinco preguntas y lecturas por niveles.</span></a><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/" style="display:block;padding:16px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;background:#fff"><strong style="display:block;font-size:1.05em;margin-bottom:6px">6. Para docentes</strong><span style="color:#555;font-size:.92em">Guía para replicar un fragmento de la cátedra en una hora con regla, cronómetro y celular.</span></a></div>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Novedades</h2>
+<!-- /wp:heading -->
+<!-- wp:latest-posts {"postsToShow":3,"displayPostDate":true,"displayPostContent":true,"excerptLength":25} /-->
+<!-- wp:paragraph -->
+<p>El material completo de la cátedra es un <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/" target="_blank" rel="noopener">cuaderno interactivo</a> de 20 páginas con ocho simuladores. En la sección <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a> está la guía para usarlo.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9000</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[regla-al-foton]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Antes de la cátedra]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9001</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <strong>Antes de la cátedra</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Diez minutos bastan para llegar a la cátedra con las preguntas correctas.</strong> Haz el reto, repasa doce palabras y mira el video de apertura.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">1. Reto: ¿qué tan preciso eres?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Mide la misma barra a ojo, con regla y con calibrador. Lo que descubras es el punto de partida de toda la cátedra.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<iframe src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/que-tan-preciso.html" width="100%" height="560" style="border:0;border-radius:12px;" loading="lazy" allowfullscreen title="Reto: ¿qué tan preciso eres?"></iframe><p style="text-align:right;font-size:.9em"><a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/que-tan-preciso.html" target="_blank" rel="noopener">Abrir en pantalla completa ↗</a></p>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">2. Glosario visual: doce palabras</h2>
+<!-- /wp:heading -->
+<!-- wp:html -->
+<details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Exactitud</summary><p style="margin:8px 0 0">Qué tan cerca está una medida del valor verdadero. Una balanza mal calibrada puede ser muy repetible y nada exacta.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Precisión</summary><p style="margin:8px 0 0">Qué tan parecidas son medidas repetidas entre sí. Se expresa con la desviación estándar.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Incertidumbre</summary><p style="margin:8px 0 0">El intervalo dentro del cual, con cierta confianza, está el valor verdadero. Toda medida la tiene; medir bien es conocerla y reducirla.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Patrón</summary><p style="margin:8px 0 0">La realización física de una unidad con la que se comparan los instrumentos: antes una barra de platino, hoy un átomo o una constante.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Trazabilidad</summary><p style="margin:8px 0 0">La cadena ininterrumpida de comparaciones que conecta la balanza del mercado con el patrón nacional y este con la definición del SI.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Calibración</summary><p style="margin:8px 0 0">Comparar un instrumento con un patrón de mayor jerarquía y registrar la diferencia, con su incertidumbre.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Sistema Internacional (SI)</summary><p style="margin:8px 0 0">Las siete unidades base (segundo, metro, kilogramo, amperio, kelvin, mol, candela), definidas desde 2019 fijando constantes de la naturaleza.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Frecuencia</summary><p style="margin:8px 0 0">Oscilaciones por segundo. Es la magnitud que mejor sabemos medir; por eso casi todo se convierte en medir frecuencia.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Fotón</summary><p style="margin:8px 0 0">El “grano” de luz: la energía luminosa llega en paquetes que se pueden contar uno a uno.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Interferencia</summary><p style="margin:8px 0 0">Cuando dos ondas se superponen y se refuerzan o se cancelan. Las franjas de interferencia son la regla más fina que existe: cada franja es media longitud de onda.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Ruido de disparo</summary><p style="margin:8px 0 0">Fluctuación en el número de fotones (o gotas) que llegan por intervalo, aun con intensidad constante. Crece como √N; su efecto relativo cae como 1/√N.</p></details><details style="border:1px solid #ddd;border-radius:10px;padding:10px 14px;margin:8px 0"><summary style="cursor:pointer;font-weight:600">Límite cuántico estándar</summary><p style="margin:8px 0 0">La mejor precisión posible contando fotones independientes. Superarlo exige estados cuánticos especiales (luz comprimida, entrelazamiento): metrología cuántica.</p></details>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">3. Video de apertura (3–5 min)</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><em>¿Por qué dejamos de medir con pedazos de metal?</em> Pegue aquí la URL del video de YouTube cuando esté grabado; WordPress lo incrusta automáticamente.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<!-- Pegue la URL del video en un bloque de párrafo o reemplace este comentario por el bloque de YouTube -->
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Siguiente:</strong> <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida →</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9001</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[antes]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Línea de tiempo de la medida]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9002</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <strong>Línea de tiempo de la medida</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>De un brazo humano a la frecuencia de un átomo: la historia de la medida es la historia de buscar un patrón que no dependa de nadie.</strong> Ocho hitos, cada uno con un dato comparable: cuánto error acumularía ese patrón al medir los ≈ 300 km de carretera entre Pereira y Bogotá. Las precisiones son órdenes de magnitud aproximados, pensados para comparar, no cifras de referencia.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<div style="border:1px solid #ddd;border-radius:12px;padding:14px"><p style="margin:0 0 8px"><strong>Error que cada patrón dejaría al medir los ≈ 300 km de carretera Pereira–Bogotá</strong> (escala logarítmica: cada tercio de barra son mil veces)</p><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>≈ 3000 a. C.</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:100.0%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 3 km</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>1799</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:89.7%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 60 m</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>1875–1889</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:69.7%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 3 cm</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>1960</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:60.6%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 1 mm</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>1967</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:33.3%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 30 nm equivalentes (un reloj que atrasa menos de 1 s en 300 000 años)</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>1983</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:45.5%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">≈ 3 µm, el grosor de una bacteria</span></div><div style="display:grid;grid-template-columns:150px 1fr 170px;gap:10px;align-items:center;margin:6px 0;font-size:.9em"><span><strong>Hoy</strong></span><span style="background:#eee;border-radius:6px;height:14px;overflow:hidden"><span style="display:block;height:100%;width:3.0%;background:linear-gradient(90deg,#1b5fd6,#e8b84b)"></span></span><span style="color:#444">una centésima del radio de un átomo de hidrógeno</span></div><p style="margin:10px 0 0;font-size:.85em;color:#555">Fíjate en que la barra de 1983 es más larga que la de 1967: el tiempo ya se medía mucho mejor que la longitud, y por eso se decidió definir el metro a partir del segundo.</p></div>
+<!-- /wp:html -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">≈ 3000 a. C. · El codo (Egipto)</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>La primera unidad fue el cuerpo: la distancia del codo a la punta del dedo medio. Para que todos midieran igual se tallaron codos patrones en granito y se obligaba a comparar las varas de madera contra ellos. Ya estaba la idea central de la metrología: un patrón, copias y comparación periódica.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 1 parte en 100 · <em>Error Pereira–Bogotá:</em> ≈ 3 km</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1799 · El metro de los Archivos (Francia)</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>La Revolución francesa quiso una unidad “para todos los pueblos y todos los tiempos”: la diezmillonésima parte del cuadrante del meridiano terrestre. Se midió el arco Dunkerque–Barcelona y se fabricó una barra de platino. El meridiano se midió con un pequeño error y el metro quedó unos 0,2 mm más corto de lo previsto; nadie lo corrigió, porque el valor de un patrón es que sea fijo, no que sea “natural”.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 2 partes en 10 000 · <em>Error Pereira–Bogotá:</em> ≈ 60 m</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1875–1889 · La Convención del Metro y los prototipos</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Diecisiete países firman el tratado que crea la Oficina Internacional de Pesas y Medidas (BIPM). En 1889 se adoptan el metro y el kilogramo de platino-iridio: una barra con sección en X y un cilindro guardado bajo tres campanas de vidrio cerca de París. Cada país recibe una copia numerada.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 1 parte en 10 millones · <em>Error Pereira–Bogotá:</em> ≈ 3 cm</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1960 · El metro se vuelve luz</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Una barra se raya, se dilata y solo existe en un lugar. La luz naranja del kriptón-86 es igual en cualquier laboratorio del mundo: el metro pasa a ser 1 650 763,73 longitudes de onda de esa luz. Es la primera unidad definida por un fenómeno atómico y la antesala de todo lo cuántico.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 4 partes en mil millones · <em>Error Pereira–Bogotá:</em> ≈ 1 mm</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1967 · El segundo atómico</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>El segundo deja de ser una fracción del día (la Tierra no gira con regularidad suficiente) y pasa a ser 9 192 631 770 oscilaciones de la radiación del átomo de cesio-133. El patrón ya no es un objeto sino una frecuencia que cualquier átomo de cesio reproduce.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 1 parte en 10 billones (10¹³) · <em>Error Pereira–Bogotá:</em> ≈ 30 nm equivalentes (un reloj que atrasa menos de 1 s en 300 000 años)</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1983 · El metro se define con la velocidad de la luz</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Como el tiempo se mide muchísimo mejor que la longitud, se da la vuelta al problema: se fija la velocidad de la luz en exactamente 299 792 458 m/s y el metro es la distancia que recorre la luz en 1/299 792 458 de segundo. Medir longitud se convierte en medir tiempo.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 1 parte en 100 000 millones · <em>Error Pereira–Bogotá:</em> ≈ 3 µm, el grosor de una bacteria</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">20 de mayo de 2019 · Adiós al último objeto: el nuevo SI</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>El kilogramo era la última unidad atada a un objeto, y el cilindro de París había cambiado unas decenas de microgramos frente a sus copias sin que nadie pudiera decir cuál tenía razón. Desde 2019 las siete unidades base se definen fijando constantes de la naturaleza: la constante de Planck para el kilogramo, la carga del electrón para el amperio, la constante de Boltzmann para el kelvin. El kilogramo se realiza con una balanza de Kibble. Aquí termina la metrología de los trozos de metal.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> constantes fijas, sin objeto · <em>Error Pereira–Bogotá:</em> —</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hoy · Relojes ópticos y sensores cuánticos</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Los relojes de átomos o iones atrapados que oscilan con luz visible alcanzan incertidumbres de una parte en 10¹⁸: no se desviarían un segundo en la edad del universo. A esa precisión el reloj nota que lo subieron un centímetro, porque el tiempo corre distinto con la gravedad. El límite ya no lo pone el instrumento sino el ruido cuántico de contar fotones y átomos: el ruido de disparo, las gotas sobre el paraguas.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><em>Precisión aproximada:</em> 1 parte en 10¹⁸ · <em>Error Pereira–Bogotá:</em> una centésima del radio de un átomo de hidrógeno</p>
+<!-- /wp:paragraph -->
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+<!-- wp:paragraph -->
+<p>Este recorrido es exactamente la <strong>Hoja de Ruta de la Precisión</strong> que recibes al final de la cátedra. Puedes descargarla en <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a>.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Siguiente:</strong> <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual →</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9002</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[linea-de-tiempo]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Laboratorio virtual]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9003</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <strong>Laboratorio virtual</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Tres simuladores para tocar lo que viste en la cátedra.</strong> Cada uno cabe en una pantalla; en celular conviene abrirlos a pantalla completa.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Interferómetro de Michelson</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>Qué mover:</strong> el espejo, unos nanómetros, y la cantidad de luz. <strong>Qué observar:</strong> cada franja que pasa por el centro es media longitud de onda; con poca luz el patrón se vuelve granulado y cuesta contar.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<iframe src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/michelson.html" width="100%" height="640" style="border:0;border-radius:12px;" loading="lazy" allowfullscreen title="Interferómetro de Michelson"></iframe><p style="text-align:right;font-size:.9em"><a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/michelson.html" target="_blank" rel="noopener">Abrir en pantalla completa ↗</a></p>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Lluvia sobre un paraguas: el ruido de disparo</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>Qué mover:</strong> la intensidad de la lluvia. <strong>Qué observar:</strong> la desviación de los conteos crece como √N, pero la fluctuación relativa cae como 1/√N. Más fotones, mejor medida… hasta el límite cuántico.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<iframe src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/ruido-disparo.html" width="100%" height="700" style="border:0;border-radius:12px;" loading="lazy" allowfullscreen title="Ruido de disparo"></iframe><p style="text-align:right;font-size:.9em"><a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/ruido-disparo.html" target="_blank" rel="noopener">Abrir en pantalla completa ↗</a></p>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tres relojes: péndulo, cuarzo y átomo</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>Qué mover:</strong> la velocidad del tiempo. <strong>Qué observar:</strong> cuánto se desfasa cada reloj al cabo de un mes o un año. La distancia entre el péndulo y el átomo es la historia del segundo.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<iframe src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/tres-relojes.html" width="100%" height="620" style="border:0;border-radius:12px;" loading="lazy" allowfullscreen title="Tres relojes"></iframe><p style="text-align:right;font-size:.9em"><a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/tres-relojes.html" target="_blank" rel="noopener">Abrir en pantalla completa ↗</a></p>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p>¿Quieres más? El <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/" target="_blank" rel="noopener">cuaderno interactivo completo</a> tiene ocho simuladores, incluidos el tanque de ondas, el globo de incertidumbre con luz comprimida y el comparador 1/√N frente a 1/N.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Siguiente:</strong> <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti →</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9003</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[laboratorio]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Metrología cerca de ti]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9004</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <strong>Metrología cerca de ti</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>La metrología cuántica no está solo en los laboratorios de París o Boulder: está en el surtidor donde tanqueas y en el celular con el que llegaste aquí.</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">La cadena que llega hasta Cartago</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>En Colombia el patrón nacional lo custodia el <strong>Instituto Nacional de Metrología (INM)</strong>, en Bogotá. El INM compara sus patrones con los del BIPM y con otros institutos nacionales; los laboratorios de calibración acreditados comparan sus equipos con el INM; las empresas calibran sus balanzas, termómetros y medidores en esos laboratorios; y la autoridad de metrología legal verifica que la balanza del mercado y el surtidor de gasolina midan lo que dicen. Esa cadena de comparaciones es la <strong>trazabilidad</strong>: por ella, un kilo de plátano en Cartago es el mismo kilo que en Tokio.</p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.92em;margin:10px 0 18px"><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">Definición del SI (constantes)</span><span>→</span><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">BIPM · comparaciones internacionales</span><span>→</span><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">INM Colombia · patrón nacional</span><span>→</span><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">Laboratorio de calibración acreditado</span><span>→</span><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">Instrumento de la empresa</span><span>→</span><span style="padding:8px 12px;border:1px solid #ccc;border-radius:20px;background:#fafafa">Balanza o surtidor verificado</span></div>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cuatro casos cotidianos</h2>
+<!-- /wp:heading -->
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Objeto</th><th>Qué mide</th><th>Dónde está la metrología cuántica</th></tr></thead><tbody><tr><td>GPS del celular</td><td>Tu posición con ~5 m de error</td><td>Cada satélite lleva relojes atómicos; un error de 1 µs en el tiempo es un error de 300 m en la posición. Sin relatividad y sin relojes atómicos el GPS falla en minutos.</td></tr><tr><td>Báscula de la EPS</td><td>Tu masa</td><td>Está verificada contra pesas calibradas que remontan al INM y, desde 2019, a la constante de Planck.</td></tr><tr><td>Surtidor de gasolina</td><td>Volumen entregado</td><td>La metrología legal lo verifica con medidas patrón; la tolerancia permitida es de unos pocos mililitros por cada litro.</td></tr><tr><td>Medidor de energía</td><td>Kilovatios-hora</td><td>La tensión patrón se realiza con el efecto Josephson y la resistencia con el efecto Hall cuántico: dos fenómenos cuánticos definen lo que pagas en la factura.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Para seguir</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Sitio del Instituto Nacional de Metrología de Colombia (INM): busque “INM Colombia” para las guías de calibración y los cursos abiertos.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Oficina Internacional de Pesas y Medidas (BIPM): folleto del SI con las definiciones de 2019.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Entradas del blog <a href="https://academia.utp.edu.co/metrologia-lmve/">Metrología para la innovación</a> sobre metrología para el sector eléctrico y los grupos GIMB y DICOPED.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p><strong>Siguiente:</strong> <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra →</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9004</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[cerca-de-ti]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Después de la cátedra]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9005</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <strong>Después de la cátedra</strong> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes</a></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Lo que te llevas: la Hoja de Ruta de la Precisión, un reto para comprobar qué quedó y un camino para seguir según tu nivel.</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Hoja de Ruta de la Precisión</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>El infográfico resume el paso de medir con trozos de metal a medir con la frecuencia de los átomos. Está en dos versiones dentro del <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/" target="_blank" rel="noopener">cuaderno interactivo</a>: la plantilla que completas durante la cátedra y la versión completa, que puedes imprimir a PDF desde el navegador. <em>[Cuando exporte la imagen PNG, súbala a la biblioteca de medios e insértela aquí con un bloque Imagen y enlace de descarga.]</em></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Reto de cinco preguntas</h2>
+<!-- /wp:heading -->
+<!-- wp:html -->
+<iframe src="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/quiz.html" width="100%" height="520" style="border:0;border-radius:12px;" loading="lazy" allowfullscreen title="Reto de cinco preguntas"></iframe><p style="text-align:right;font-size:.9em"><a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/quiz.html" target="_blank" rel="noopener">Abrir en pantalla completa ↗</a></p>
+<!-- /wp:html -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Para seguir, según tu nivel</h2>
+<!-- /wp:heading -->
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Nivel</th><th>Qué leer o ver</th></tr></thead><tbody><tr><td>Curioso</td><td>Folleto del SI (BIPM) en español, capítulo de definiciones; videos sobre la redefinición del kilogramo de 2019; el episodio sobre la balanza de Kibble del NIST.</td></tr><tr><td>Estudiante de ciencias</td><td>Capítulos de interferometría y óptica física de un texto universitario; artículo de revisión sobre relojes ópticos; la guía GUM de expresión de la incertidumbre.</td></tr><tr><td>Docente</td><td>La <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">guía de una hora</a> de este micrositio y la guía del docente incluida en el cuaderno interactivo (cronograma, materiales, analogías y su punto de ruptura, evaluación formativa).</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">¿Quedó una pregunta pendiente?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Escríbela aquí y la respondemos en una próxima entrada del blog. <em>[Inserte el formulario del plugin de la red o un Formulario de Google en un bloque HTML personalizado.]</em></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Siguiente:</strong> <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/">Para docentes →</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9005</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[despues]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Para docentes]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/docentes/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9006</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:html -->
+<nav style="font-size:.95em;padding:10px 14px;border:1px solid #ddd;border-radius:10px;background:#fafafa;line-height:1.9"><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">Inicio</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">Línea de tiempo de la medida</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/laboratorio/">Laboratorio virtual</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/cerca-de-ti/">Metrología cerca de ti</a> · <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/despues/">Después de la cátedra</a> · <strong>Para docentes</strong></nav>
+<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p><strong>Un fragmento de la cátedra cabe en una hora de clase con regla, cronómetro y celular.</strong> Esta guía está pensada para grados 10.º y 11.º y primeros semestres universitarios.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Secuencia de una hora</h2>
+<!-- /wp:heading -->
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Minutos</th><th>Actividad</th><th>Qué se aprende</th></tr></thead><tbody><tr><td>0–10</td><td>Cada estudiante mide el largo del salón con pasos, luego con regla de 30 cm, luego con cinta métrica. Se anotan todos los valores en el tablero.</td><td>Precisión vs. exactitud; la dispersión aparece sola.</td></tr><tr><td>10–20</td><td>Promedio y desviación con la calculadora del celular. ¿Qué grupo midió mejor? ¿Cómo lo sabemos sin conocer el valor “verdadero”?</td><td>Incertidumbre; la necesidad de un patrón.</td></tr><tr><td>20–35</td><td>Applet <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/ruido-disparo.html" target="_blank" rel="noopener">lluvia sobre un paraguas</a> proyectado: subir la intensidad y leer σ/N. Cronómetro: contar carros que pasan por minuto, cinco veces.</td><td>Ruido de disparo; la ley 1/√N con datos propios.</td></tr><tr><td>35–50</td><td>Applet <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/applets/tres-relojes.html" target="_blank" rel="noopener">tres relojes</a> y la <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/linea-de-tiempo/">línea de tiempo</a>: ¿por qué el metro se define con el segundo?</td><td>Trazabilidad a constantes; el salto de 1983 y 2019.</td></tr><tr><td>50–60</td><td>Cierre: cada estudiante escribe en una frase qué significa “medir bien”. Tarea: el reto de cinco preguntas.</td><td>Síntesis; evaluación formativa.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Materiales</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Regla de 30 cm y cinta métrica (una por grupo)</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Cronómetro del celular</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Proyector o televisor con navegador para los applets</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Hoja de registro: columnas para instrumento, valor, promedio, desviación</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cuaderno interactivo completo</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>El <a href="https://mleyes-fisicalab.github.io/CATEDRA-De-la-regla-al-foton/" target="_blank" rel="noopener">cuaderno</a> contiene las 20 páginas de la cátedra de 4 horas, ocho simuladores y la guía del docente con cronograma, analogías (y el punto donde cada analogía deja de funcionar) y evaluación formativa. Funciona en cualquier navegador sin instalar nada; el progreso se guarda en el dispositivo.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Licencia y créditos</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Material educativo de la Universidad Tecnológica de Pereira, publicado en el blog Metrología para la innovación. Puede usarse y adaptarse con fines educativos citando la fuente. Las imágenes institucionales son propiedad de la UTP.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">← Volver al inicio del micrositio</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<p style="font-size:.8em;color:#666;text-align:center;margin-top:24px">Universidad Tecnológica de Pereira · Blog Metrología para la innovación · Cátedra “De la metrología básica a la metrología cuántica: De la regla al fotón”</p>
+<!-- /wp:html -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9006</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[docentes]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>9000</wp:post_parent>
+<wp:menu_order>6</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key>_wp_page_template</wp:meta_key><wp:meta_value><![CDATA[page-templates/template-fullwidth.php]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Cátedra: De la regla al fotón — ya está abierto el micrositio]]></title>
+<link>https://academia.utp.edu.co/metrologia-lmve/catedra-de-la-regla-al-foton/</link>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/?p=9100</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>El blog Metrología para la innovación presenta la cátedra corta <em>De la metrología básica a la metrología cuántica: De la regla al fotón</em></strong>, cuatro horas para recorrer, sin tableros llenos de ecuaciones, el camino que va de medir con trozos de metal a medir con la frecuencia de los átomos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Fecha, lugar e inscripción: <em>[por confirmar]</em>.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Mientras tanto, el <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/">micrositio de la cátedra</a> ya está abierto: un reto de precisión, la línea de tiempo de la medida, tres simuladores para tocar y una guía para docentes. Empieza por <a href="https://academia.utp.edu.co/metrologia-lmve/regla-al-foton/antes/">Antes de la cátedra</a>.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9100</wp:post_id>
+<wp:post_date><![CDATA[2026-11-07 12:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-11-07 12:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[catedra-de-la-regla-al-foton]]></wp:post_name>
+<wp:status><![CDATA[draft]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="category" nicename="de-la-regla-al-foton"><![CDATA[De la regla al fotón]]></category>
+</item>
+</channel>
+</rss>
